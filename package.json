@@ -9,6 +9,6 @@
   },
   "devDependencies": {
     "@types/node": "latest",
-    "nuxt": "latest"
+    "nuxt": "nuxt/nuxt#main"
   }
 }
